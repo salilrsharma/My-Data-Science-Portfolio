@@ -3,6 +3,6 @@ Welcome to my data science portfolio! Here, I host interesting projects created 
 
 # Content
 ## Machine Learning
-* Clustering vehicle types from recorded time-stamps between two Bluetooth stations
+* Unsupervised learning (clustering): Identified vehicle types (cars and trucks) from vehicle time series data as they pass through two successive Bluetooth stations.
 
 ## Deep learning
