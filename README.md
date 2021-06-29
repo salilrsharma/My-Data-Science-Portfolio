@@ -3,5 +3,6 @@ Welcome to my data science portfolio! Here, I host interesting projects created 
 
 # Content
 ## Machine Learning
+* Clustering vehicle types from recorded time-stamps between two Bluetooth stations
 
 ## Deep learning
