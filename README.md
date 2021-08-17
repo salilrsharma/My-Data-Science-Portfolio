@@ -13,4 +13,4 @@ Welcome to my data science portfolio! Here, I host interesting projects created 
 * Clustering lane-changing behavior of truck drivers using a video trajectory dataset
 
 ## Econometric models
-* [Route choices modeling of truck drivers using a multinomial logit and mixed logit model](https://github.com/salilrsharma/My-Data-Science-Portfolio/blob/main/Route%20choice%20model.ipynb)
+* [Route choices modeling of truck drivers using a multinomial logit model](https://github.com/salilrsharma/My-Data-Science-Portfolio/blob/main/Route%20choice%20model.ipynb)
