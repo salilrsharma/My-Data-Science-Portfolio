@@ -8,6 +8,7 @@ Welcome to my data science portfolio! Here, I host interesting projects created 
 * Lane-changing assistance system for truck drivers using a video trajectory dataset
 * Time of departure prediction using port logistics data
 * Sentiment labeling of IMDB dataset 
+* Hourly traffic volume prediction using I-94 traffic dataset
 
 ## Unsupervised Learning
 * Clustering lane-changing behavior of truck drivers using a video trajectory dataset
