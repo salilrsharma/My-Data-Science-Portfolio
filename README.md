@@ -2,20 +2,15 @@
 Welcome to my data science portfolio! Here, I host interesting projects created by me as a part of my research and enthusiasm to discover and learn more.
 
 # Content
-## Exploratory data analysis
-* Lane-changing 
-* Terminal data
 
-## Machine Learning
-* Unsupervised learning (clustering): Identified vehicle types (cars and trucks) from vehicle time stamp data as they pass through two successive Bluetooth stations.
-* Unsupervised learning (probabilistic clustering): 
-* Supervised learning (classification): peak hour departure
-* Supervised learning (classification): Lane-changing
-* Supervised learning (regression): 
+## Supervised Learning
+* Applicant's credit risk prediction using German credit data
+* Lane-changing assistance system for truck drivers using a video trajectory dataset
+* Time of departure prediction using port logistics data
+* Sentiment labeling of IMDB dataset 
 
-## Deep learning
-* Supervised learning (classification):
-
+## Unsupervised Learning
+* Clustering lane-changing behavior of truck drivers using a video trajectory dataset
 
 ## Econometric models
-* Choice model: A multinomial logit and mixed logit model are developed to investigate route choices of truck drivers at a diversion node.
+* Route choices modeling of truck drivers using a multinomial logit and mixed logit model
