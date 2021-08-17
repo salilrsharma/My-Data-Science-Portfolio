@@ -4,7 +4,7 @@ Welcome to my data science portfolio! Here, I host interesting projects created 
 # Content
 
 ## Supervised Learning
-* Applicant's credit risk prediction using German credit data
+* [Applicant's credit risk prediction using German credit data](https://github.com/salilrsharma/My-Data-Science-Portfolio/blob/main/German_credit_data.ipynb)
 * Lane-changing assistance system for truck drivers using a video trajectory dataset
 * Time of departure prediction using port logistics data
 * Sentiment labeling of IMDB dataset 
@@ -13,4 +13,4 @@ Welcome to my data science portfolio! Here, I host interesting projects created 
 * Clustering lane-changing behavior of truck drivers using a video trajectory dataset
 
 ## Econometric models
-* Route choices modeling of truck drivers using a multinomial logit and mixed logit model
+* [Route choices modeling of truck drivers using a multinomial logit and mixed logit model](https://github.com/salilrsharma/My-Data-Science-Portfolio/blob/main/Route%20choice%20model.ipynb)
