@@ -6,7 +6,7 @@ Welcome to my data science portfolio! Here, I host interesting projects created 
 ## Supervised Learning
 * [Applicant's credit risk prediction using German credit data](https://github.com/salilrsharma/My-Data-Science-Portfolio/blob/main/German_credit_data.ipynb)
 * Lane-changing assistance system for truck drivers using a video trajectory dataset
-* Time of departure prediction using port logistics data
+* Recommendation system
 * Sentiment labeling of IMDB dataset 
 * Image classification using Fashion-MNIST dataset
 * [Hourly traffic volume prediction using I-94 traffic dataset](https://github.com/salilrsharma/My-Data-Science-Portfolio/blob/main/Traffic%20volume%20prediction.ipynb)
