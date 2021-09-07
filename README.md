@@ -8,7 +8,7 @@ Welcome to my data science portfolio! Here, I host interesting projects created 
 * Lane-changing assistance system for truck drivers using a video trajectory dataset
 * Recommendation system
 * Sentiment labeling of IMDB dataset 
-* Image classification using Fashion-MNIST dataset
+* [Image classification using Fashion-MNIST dataset](https://github.com/salilrsharma/My-Data-Science-Portfolio/blob/main/Fasion-MNIST%20image%20classification.ipynb)
 * [Hourly traffic volume prediction using I-94 traffic dataset](https://github.com/salilrsharma/My-Data-Science-Portfolio/blob/main/Traffic%20volume%20prediction.ipynb)
 
 ## Unsupervised Learning
